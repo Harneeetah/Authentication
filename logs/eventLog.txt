@@ -1,0 +1,9 @@
+20231006	10:58:37	80ed4521-7d85-4491-a210-9f75dbcb8921	GET	undefined	/register
+20231006	10:58:38	2f9530d9-949b-4dd0-a32d-0f444ff9a4f9	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Authentication\views\404.html'
+20231006	11:06:23	45cc22b8-75cb-4f1e-856c-6f8d94c993e2	POST	undefined	/register
+20231006	11:06:23	22b28615-b556-460a-a3cb-bfd8145319de	SyntaxError: Unexpected token p in JSON at position 21
+20231006	11:15:32	9a0eb5d2-5cbc-484a-9ec2-8d8ebb9e61da	POST	undefined	/register
+20231006	11:17:19	2691f484-ed85-4c09-b0bf-5b3919c3a8dc	POST	undefined	/register
+20231006	11:45:08	2d192f8b-c4b5-4710-8218-cbb7de1d9d91	POST	undefined	/auth
+20231006	11:45:21	fc8ac7f8-711d-452a-8a97-7082a4976739	POST	undefined	/auth
+20231006	11:45:46	0a9f90e8-b99e-4686-a2fd-d3aeb4ec873d	POST	undefined	/register
